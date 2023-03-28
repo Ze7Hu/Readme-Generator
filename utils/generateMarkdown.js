@@ -76,6 +76,7 @@ ${data.contributing}
 ${data.email}
 ${data.Github}
 ${data.title}
+${data.contact}
 
 ## Testing
 ${data.testing}

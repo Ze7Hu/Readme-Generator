@@ -1,5 +1,5 @@
-# df
-  by 
+# README.md Generator
+  by Ze7Hu
   /https://img.shields.io/badge/license-undefined-
   ## Table of Content
   * [Description](#Description)
@@ -11,24 +11,25 @@
   * [License](#License)
 
 ## Description
-'f
+this is an application that creates a readme file
 
 ## Usage
-sd
+Clone the repository, run npm i then node index.js. Follow prompts to enable you to create a readme file
 
 ## Installation
-dsfsd
+to install use npm install command
 
 ## Contributing
-fds
+do not contribute
 
 ## Questions
-fkn]nfd,j
-
-df
+hodhan_moha@live.nl
+Ze7Hu
+README.md Generator
+undefined
 
 ## Testing
-
+Run npm test command
 
 
 ## License

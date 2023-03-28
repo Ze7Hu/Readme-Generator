@@ -27,6 +27,12 @@ const questions = [
     message:'What is your email address?',
 
   },
+  {
+    type:'input',
+    name:'Contact',
+    message:'Please provide contact information incase of any inquiries.'
+
+  },
 
   {
     type: 'input',
