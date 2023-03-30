@@ -29,7 +29,7 @@
   ## Questions
   * [Email]hodhan_moha@live.nl
   * [Github]ZE7Hu (https://github.com/ZE7Hu)
-  * [Title] 1README.md Generator
+  * [Title] README.md Generator
   
 
   ## Testing
