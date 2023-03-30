@@ -11,7 +11,7 @@ Create a command-line application that generates a high-quality proffesional REA
 ## Technologies Used
 JavaScript Node js Screencastify
 
-##Link
+## Link
 Locate the URL for the README.md Genetor demo here[https://drive.google.com/file/d/1MS7UQZq_5btWJ682klFcMsylK2BQKd50/view]
 
 # Screenshots
