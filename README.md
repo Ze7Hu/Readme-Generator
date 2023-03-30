@@ -20,8 +20,5 @@ Locate the link for the README.md Genetor demo here[https://drive.google.com/fil
 
 <img width="873" alt="Screenshot 2023-03-30 at 13 05 55" src="https://user-images.githubusercontent.com/123417090/228831136-bb8b8608-6c97-43b6-9d76-2e93859be4ac.png">
 
-<img width="873" alt="Screenshot 2023-03-30 at 13 06 10" src="https://user-images.githubusercontent.com/123417090/228831152-0fe4d99d-dd97-4301-9bdb-393d2bab769a.png">
-
-
 <img width="873" alt="Screenshot 2023-03-30 at 21 37 46" src="https://user-images.githubusercontent.com/123417090/228959150-ba44bb02-8d2c-4a5b-9a34-176773b58e07.png">
 
