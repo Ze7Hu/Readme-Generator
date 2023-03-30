@@ -1,6 +1,6 @@
 # README.md Generator
     by ZE7Hu
-    /https://img.shields.io/badge/license-undefined-
+    https://img.shields.io/badge/license-undefined-
     
 
   ## Table of Content
