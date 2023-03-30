@@ -35,5 +35,5 @@
   ## Testing
   Use npm run test command
   ## License
-      license:MIT
+      License:MIT
   
