@@ -28,13 +28,6 @@ const questions = [
 
   },
   {
-    type:'input',
-    name:'Contact',
-    message:'Please provide contact information incase of any inquiries.'
-
-  },
-
-  {
     type: 'input',
     name: 'title',
     message:"What is your project's name?",
@@ -84,8 +77,6 @@ const questions = [
 function writeToFile(fileName,data){
   fs.writeFileSync(path.join(process.cwd(), fileName),data);
 } 
-
-
 
 function init() {
   inquirer.prompt(questions)
