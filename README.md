@@ -2,7 +2,7 @@
 Create a command-line application that generates a professional README.md file from user's input using inquirer package.
 
 ## Github Pages
-Locate the deployed application on Github pages [here]
+Locate the deployed application on Github pages [https://ze7hu.github.io/Readme-generator/]
 
 
 ## Description
