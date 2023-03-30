@@ -73,9 +73,9 @@ function renderLicenseBadge(license) {
   ${data.contributing}
 
   ## Questions
-  * [Email]  : ${data.email}
-  * [Github] : ${data.Github}[https://github.com/ ${data.Github}]
-  * [Title]  : ${data.title}
+  * [Email]${data.email}
+  * [Github]${data.Github}(https://github.com/${data.Github})
+  * [Title] 1${data.title}
   
 
   ## Testing
