@@ -9,9 +9,9 @@ Locate the deployed application on Github pages [https://ze7hu.github.io/Readme-
 Create a command-line application that generates a high-quality proffesional README.md file. The application will accept user's input and display prompts for information about user's application. User will respond to the prompt questions and when they have completed, then a README.md file will be generated.
 
 ## Technologies Used
-JavaScript,
+JavaScript
 
-Nodejs,
+Nodejs
 
 Screencastify
 
