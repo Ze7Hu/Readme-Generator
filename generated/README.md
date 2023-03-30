@@ -1,5 +1,5 @@
 # README.md Generator
-    by ZE7Hu
+    by ZE7Hu/
     https://img.shields.io/badge/license-undefined-
     
 
