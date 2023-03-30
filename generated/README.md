@@ -1,6 +1,7 @@
-# REAMDE.md Generator
-    by Ze7Hu
+# README.md Generator
+    by ZE7Hu
     /https://img.shields.io/badge/license-undefined-
+<<<<<<< HEAD
     
     ## Table of Content
     * [Description](#Description)
@@ -10,7 +11,21 @@
     * [Questions](#Questions)
     * [Testing](#Testing)
     * [License](#License)
+=======
+>>>>>>> f4ca216 (changes)
     
+
+  ## Table of Content
+  * [Description](#Description)
+  * [Usage](#Usage)
+  * [Installation](#Installation)
+  * [Conrtibuting](#Contributing)
+  * [Questions](#Questions)
+  * [Testing](#Testing)
+  * [License](#License)
+
+
+
   ## Description
   This is an application that generates a readme file
 
@@ -25,8 +40,8 @@
 
   ## Questions
   * [Email]hodhan_moha@live.nl
-  * [Github]Ze7Hu(https://github.com/Ze7Hu)
-  * [Title] 1REAMDE.md Generator
+  * [Github]ZE7Hu (https://github.com/ZE7Hu)
+  * [Title] 1README.md Generator
   
 
   ## Testing

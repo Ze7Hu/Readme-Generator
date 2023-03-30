@@ -51,15 +51,19 @@ function renderLicenseBadge(license) {
     return `# ${data.title}
     by ${data.Github}
     ${renderLicenseBadge(data.licence)}
-    ## Table of Content
-    * [Description](#Description)
-    * [Usage](#Usage)
-    * [Installation](#Installation)
-    * [Contributing](#Contributing)
-    * [Questions](#Questions)
-    * [Testing](#Testing)
-    * [License](#License)
     
+
+  ## Table of Content
+  * [Description](#Description)
+  * [Usage](#Usage)
+  * [Installation](#Installation)
+  * [Conrtibuting](#Contributing)
+  * [Questions](#Questions)
+  * [Testing](#Testing)
+  * [License](#License)
+
+
+
   ## Description
   ${data.description}
 
@@ -74,7 +78,7 @@ function renderLicenseBadge(license) {
 
   ## Questions
   * [Email]${data.email}
-  * [Github]${data.Github}(https://github.com/${data.Github})
+  * [Github]${data.Github} (https://github.com/${data.Github})
   * [Title] 1${data.title}
   
 
