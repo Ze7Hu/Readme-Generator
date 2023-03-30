@@ -1,18 +1,6 @@
 # README.md Generator
     by ZE7Hu
     /https://img.shields.io/badge/license-undefined-
-<<<<<<< HEAD
-    
-    ## Table of Content
-    * [Description](#Description)
-    * [Usage](#Usage)
-    * [Installation](#Installation)
-    * [Contributing](#Contributing)
-    * [Questions](#Questions)
-    * [Testing](#Testing)
-    * [License](#License)
-=======
->>>>>>> f4ca216 (changes)
     
 
   ## Table of Content
